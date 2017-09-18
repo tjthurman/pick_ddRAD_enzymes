@@ -1,0 +1,10 @@
+enzyme.name,five.prime.seq,three.prime.seq,enzyme.number
+SbfI,CCTGCA,GG,1
+TaqI,T,CGA,2
+MseI,T,TAA,3
+PstI,CTGCA,G,4
+EcoRI,G,AATTC,5
+SphI,GCTATG,C,6
+MspI,C,CGG,7
+MluCI,,AATT,8
+NlaIII,CATG,,9
